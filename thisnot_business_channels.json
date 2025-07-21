@@ -1,6 +1,6 @@
 {
   "https://thisnot.business/player.php?id=Premiere1_BR": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd&key_id=d98239180d8380b3a1bb28d875b1ddf2&key=cf836ced579257d1c76ae8809818e6c4",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - SEMIFINALI",
@@ -12,7 +12,7 @@
     }
   },
   "https://thisnot.business/player.php?id=Premiere2_BR": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd&key_id=fd2e8019f37211ca8b78a8b656f1b83a&key=273189c214e85b43ac36298d1c422330",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - SEMIFINALI",
@@ -24,7 +24,7 @@
     }
   },
   "https://thisnot.business/player.php?id=Premiere3_BR": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd&key_id=9547f9aead1237c8a3b1bf0a91ed9995&key=534fab4541fef31921dd970c65d51848",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - SEMIFINALI",
@@ -36,7 +36,7 @@
     }
   },
   "https://thisnot.business/player.php?id=Premiere5_BR": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd&key_id=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd&key_id=d5a3ac0b892bfccdf352b6def9cb2764&key=ac0936acc0036fad2273efaa42b1fafd",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - SEMIFINALI",
@@ -48,7 +48,7 @@
     }
   },
   "https://thisnot.business/player.php?id=TNTSP_ARG": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd&key_id=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - SEMIFINALI",
@@ -60,7 +60,7 @@
     }
   },
   "https://thisnot.business/player.php?id=ESPNP_ARG": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_wl/Fox_Sports_Premiun_HD.mpd&key_id=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - SEMIFINALI",
@@ -72,7 +72,7 @@
     }
   },
   "https://thisnot.business/player.php?id=Rai2": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - SEMIFINALI",
@@ -84,7 +84,7 @@
     }
   },
   "https://thisnot.business/player.php?id=RTE2": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://live.rte.ie/live/a/vc12/vc12.isml/manifest.mpd&key_id=d816287e21496989eae1312925a423c5&key=00da00f13180e7e6cd5ce87d1c974e8d",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - SEMIFINALI",
@@ -96,7 +96,7 @@
     }
   },
   "https://thisnot.business/player.php?id=RaiSport": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
     "info": {
       "category": "CALCIO",
       "title": "EUROPEI FEMMINILI - SEMIFINALI",
@@ -108,7 +108,7 @@
     }
   },
   "https://thisnot.business/player.php?id=Eurosport1IT": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750",
     "info": {
       "category": "CICLISMO",
       "title": "TOUR DE FRANCE - FRANCIA",
@@ -120,7 +120,7 @@
     }
   },
   "https://thisnot.business/player.php?id=Eurosport2IT": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec",
+    "proxy_url": "https://arma2310-mascetti.hf.space/proxy/mpd/manifest.m3u8?api_password=mascetti&d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport2%29/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec",
     "info": {
       "category": "CICLISMO",
       "title": "TOUR DE FRANCE - FRANCIA",
