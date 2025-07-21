@@ -7,8 +7,8 @@ import time
 from dotenv import load_dotenv
 load_dotenv()
 
-MFP = os.getenv("MFP")
-PSW = os.getenv("PSW")
+MFP = os.getenv("https://arma2310-mascetti.hf.space")
+PSW = os.getenv("mascetti")
 PZPROXY = os.getenv("PZPROXY")
 # MFPRender = os.getenv("MFPRender") # Load if needed in the future
 # PSWRender = os.getenv("PSWRender") # Load if needed in the future
