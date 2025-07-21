@@ -20,9 +20,11 @@ PSW2 = os.getenv("PSW2")
 
 if not MFP or not PSW:
     raise ValueError("MFP and PSW environment variables must be set.")
+    MFP = "https://arma2310-mascetti.hf.space"
+    PSW = "mascetti"
 
-https://arma2310-mascetti.hf.space = MFP
-mascetti = PSW
+MFP_TO_USE_FOR_MPD = MFP
+PSW_TO_USE_FOR_MPD = PSW
 
 if MFP2 and PSW2: # Check if they are set and not empty strings
     MFP_TO_USE_FOR_MPD = MFP2
@@ -79,7 +81,7 @@ def decode_base64_keys(encoded_string):
 def generate_proxy_url(mpd_link, key1, key2):
     """Genera l'URL proxy con i parametri richiesti"""
     # Construct the base part of the proxy URL using the selected MFP/PSW
-    proxy_base_with_auth = f"{https://arma2310-mascetti.hf.space}/proxy/mpd/manifest.m3u8?api_password={mascetti}"
+    proxy_base_with_auth = f"{MFP_TO_USE_FOR_MPD}/proxy/mpd/manifest.m3u8?api_password={PSW_TO_USE_FOR_MPD}"
     # Rimuovi il parametro ck= dall'URL MPD prima di codificarlo
     mpd_base = mpd_link.split('?ck=')[0] if '?ck=' in mpd_link else mpd_link
 
