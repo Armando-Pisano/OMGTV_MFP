@@ -25,6 +25,8 @@ PROXY = os.getenv("PROXY", "") # Kept as a general optional prefix
 
 if not MFP or not PSW:
     raise ValueError("MFP and PSW environment variables must be set.")
+    MFP = "https://arma2310-mascetti.hf.space"
+    PSW = "mascetti"
 
 GUARCAL = os.getenv("GUARCAL")
 DADDY = os.getenv("DADDY")
