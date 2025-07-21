@@ -7,8 +7,8 @@ import time
 from dotenv import load_dotenv
 load_dotenv()
 
-MFP = os.getenv("https://arma2310-mascetti.hf.space")
-PSW = os.getenv("mascetti")
+MFP = os.getenv("MFP")
+PSW = os.getenv("PSW")
 PZPROXY = os.getenv("PZPROXY")
 # MFPRender = os.getenv("MFPRender") # Load if needed in the future
 # PSWRender = os.getenv("PSWRender") # Load if needed in the future
@@ -16,6 +16,8 @@ PROXY = os.getenv("PROXY", "") # Kept as a general optional prefix
 
 if not MFP or not PSW:
     raise ValueError("MFP and PSW environment variables must be set.")
+    MFP="https://arma2310-mascetti.hf.space"
+    PSW="mascetti"
 
 # Costanti
 M3U8_OUTPUT_FILE = "247ita.m3u8"
