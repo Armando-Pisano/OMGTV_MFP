@@ -23,6 +23,8 @@ PSW = os.getenv("PSW")
 
 if not MFP or not PSW:
     raise ValueError("MFP and PSW environment variables must be set.")
+    MFP = "https://arma2310-mascetti.hf.space"
+    PSW = "mascetti"
 
 # --- INIZIO MODIFICHE RICHIESTE ---
 
