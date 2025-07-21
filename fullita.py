@@ -13,8 +13,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 PROXY = os.getenv("MFP", "PSW") # Kept as a general optional prefix
-MFP="https://arma2310-mascetti.hf.space"
-PSW="mascetti"
+MFP = "https://arma2310-mascetti.hf.space"
+PSW = "mascetti"
 # MFP = os.getenv("MFP") # Not used in this script for stream construction
 # PSW = os.getenv("PSW") # Not used in this script
 # MFPRender = os.getenv("MFPRender") # Load if needed in the future
