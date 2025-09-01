@@ -124,9 +124,6 @@ https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti
 https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Discovery",FOOD NETWORK (V)
-https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="Food Network (2)" tvg-logo="" group-title="Discovery",FOOD NETWORK (V) (2)
 https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/276786104991c55564696b&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="foxhd.it" tvg-name="Fox" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film;Sky",FOX (V)
@@ -426,9 +423,6 @@ https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Sky",SKY DOCUMENTARIES (V)
-https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
 https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -538,6 +532,15 @@ https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti
 https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
+https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 (2)" tvg-logo="" group-title="Sport",SKY SPORT F1 (V) (2)
+https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football (2)" tvg-logo="" group-title="Sport",SKY SPORT FOOTBALL (V) (2)
+https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only] (2)" tvg-logo="" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V) (2)
 https://arma2310-mascetti.hf.space/proxy/hls/manifest.m3u8?api_password=mascetti&d=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
